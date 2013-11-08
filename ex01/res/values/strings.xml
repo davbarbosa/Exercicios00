@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ex01</string>
+    <string name="action_settings">Settings</string>
+    <string name="button01_label">Push Me</string>
+    <string name="button02_label">Click Me</string>
+
+</resources>
