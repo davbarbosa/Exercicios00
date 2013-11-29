@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">exsala3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toggle1On">noRed</string>
+    <string name="toggle1Off">Red</string>
+    <string name="toggle2On">noBlue</string>
+    <string name="toggle2Off">Blue</string>
+	<string name="toggle3On">noYellow</string>
+    <string name="toggle3Off">Yellow</string>
+</resources>
